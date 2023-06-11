@@ -1,0 +1,117 @@
+
+
+    nav{
+    display: flex;
+    justify-content: flex-end;
+    
+}
+
+ul li{
+    list-style: none;
+    display: inline-flex;
+    justify-content: space-between;
+    margin-top: 10px;
+    font-size: 1em;
+    line-height: 30px;
+    
+
+}
+li{
+    display: flex;
+    padding-left: 20px;
+}
+.image{
+    position: relative;
+    left: 40%;
+    
+}
+form{
+    display: flex;
+    justify-content: center;
+    margin-top: 30px;
+    border-style: none;
+    align-content: space-around;
+
+}
+.width{
+    width: 500px;
+    height: 40px;
+    border-radius: 50px;
+    box-shadow: white;
+    font-size: 1rem;
+    
+    
+}
+body {
+    font-family: Roboto, "Ubuntu", Arial, sans-serif;
+    font-size: 81.25%;
+}
+.form-control{
+    width: 600px;
+    border-radius: 50px;
+    margin-top: 10px;
+    height: 50px;
+    margin-left: 100px;
+}
+svg{
+    height: 50px;
+}
+.card{
+    box-sizing: border-box;
+    border-radius: 1em;
+    color: #FFF;
+  background: #faf8f8;
+  width: 50px;
+  display: inline-flex;
+  height: 50px;
+  border-color: rgb(45, 240, 31);
+}
+.center{
+    position: relative;
+    right: 10px;
+    top: 5px;
+}
+input[type="submit"]{
+    display: inline-block;
+    margin-top: 50px;
+    position: relative;
+    top: 50px;
+    right: 290px;
+    padding: 10px;
+    margin-left: 10px;
+    
+}
+.love{
+   position: relative;
+   left: 100px;
+}
+footer{
+    position: absolute;
+    top: 350px;
+    margin-top: 10px;
+}
+span{
+    color: blue;
+}
+a{
+    text-decoration: none;
+    color: black;
+    height: 20px;
+}
+.bin{
+    background-color:hsl(216, 12%, 92%);
+   border-style: hidden;
+    border-radius: 5px;
+    padding: 20px;
+    
+   
+}
+.iska :hover{
+    border-color: black;
+    border-style: solid;
+}
+.iska{
+    display: flex;
+    position: relative;
+    right: 5%;
+}
